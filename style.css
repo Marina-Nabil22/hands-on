@@ -1,0 +1,272 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+div ul{
+    float: right;
+    left: 637px;
+   
+}
+li{
+    display: inline;
+}
+li a{
+ 
+    text-decoration: none;
+}
+nav div img{
+position: absolute;
+width: 96px;
+height: 81px;
+left: 101px;
+top: 24px;
+}
+main{
+    position: absolute;
+width: 1440px;
+height: 895px;
+left: 0px;
+top: 129px;
+background: url(sailboat.jpg);
+background-size: cover;
+}
+
+main .welcome{
+position: absolute;
+width: 574px;
+height: 155px;
+left: 433px;
+top: 150px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 128px;
+line-height: 155px;
+text-align: right;
+color: black;
+}
+main .msp{
+    position: absolute;
+width: 621px;
+height: 77px;
+left: 415px;
+top: 370px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 77px;
+text-align: right;
+padding-top: 25px;
+color: #010101;
+}
+main button{
+  box-sizing: border-box;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+position: absolute;
+width: 233px;
+height: 104px;
+
+border: 4px solid #010101;
+border-radius: 70px;
+font-weight: 600;
+ font-size: 36px;
+ left: 620px;
+ top: 580px;
+/* padding: 20px 40px ; */
+background-color:  #E4E4E4;
+}
+
+.FAQ{
+ width: 123.76px;
+height: 48px;
+left: 1238px;
+top: 41px;
+font-weight: 600;
+font-size: 40px;
+line-height: 48px;
+text-align: right;
+position: absolute;
+color: #7FBA00;
+}
+
+.Contact{
+width: 158px;
+height: 48px;
+left: 1015px;
+top: 41px;
+position: absolute;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 48px;
+text-align: right;
+color: #FFFFFF;
+}
+
+.About {
+ position: absolute;
+width: 123.76px;
+height: 48px;
+left: 826px;
+top: 41px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 48px;
+text-align: right;
+color: #01A3F1;
+}
+
+.Home{
+position: absolute;
+width: 123.76px;
+height: 48px;
+left: 637px;
+top: 41px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 48px;
+text-align: right;
+color: #F25123;
+}
+section{
+    position: relative;
+    top:1000px;
+width: 1440px;
+height: 1024px;
+}
+section div .team{
+    color:#7FBA00;
+    width: 251px;
+    height: 58px; 
+     left: 595px;
+     top: 30px; 
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+position: absolute; 
+}
+
+ 
+.img1{
+    position: absolute;
+width: 1001.52px;
+height: 256.23px;
+left: 219px;
+top: 169px;
+} 
+
+.red {
+  
+    width: 25%;
+    top: 300px;
+    float: left;
+    text-align: center;
+}
+.img1 .two{
+    border: 5px solid black;
+    border-radius: 50%;
+    outline:  solid 7px #01A3F1;
+}.img1 .one{
+    border: 5px solid black;
+    border-radius: 50%;
+    outline:  solid 7px #F25123;
+}.img1 .three{
+    border: 5px solid black;
+    border-radius: 50%;
+    outline:  solid 7px white;
+}.img1 .four{
+    border: 5px solid black;
+    border-radius: 50%;
+    outline:  solid 7px #7FBA00;
+}
+ section .img1 .red .jane{
+     font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 33px;
+ }
+ section .img1 .red .rede{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 25.8071px;
+line-height: 31px;
+color: #F25123;
+ } 
+ section .img1 .red .bluee{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 25.8071px;
+line-height: 31px;
+color: #01A3F1;
+ } 
+ section .img1 .red .whitee{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 25.8071px;
+line-height: 31px;
+color: #FFFFFF;
+ }
+  section .img1 .red .greene{
+    font-family: 'Inter';
+font-weight: 500;
+font-size: 25.8071px;
+line-height: 31px;
+color:#7FBA00;
+ }
+ section .text{
+    position: absolute;
+    width: 475px;
+    height: 44px;
+    left: 470px;
+    top: 504px;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: center;
+    color: #F25123;
+ }
+.img2{
+     position: absolute; 
+    height: 256.23px;
+    top: 600px;
+    
+}  
+section .img2 .people{
+    width: 33.3333%;
+    float: left;
+    text-align: center;
+    margin: 15px 0px;
+}
+section .img2 .people .a{
+    border-left: #7FBA00 25px solid;
+}
+section .img2 .people .b{
+    border-left: #01A3F1 25px solid;
+}
+section .img2 .people .c{
+    border-left: #F25123 25px solid;
+}
+section .img2 .people .d{
+    border-left: #F25123 25px solid;
+}
+section .img2 .people .e{
+    border-left: #7FBA00 25px solid;
+}
+section .img2 .people .f{
+    border-left: #01A3F1 25px solid;
+}
